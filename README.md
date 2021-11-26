@@ -15,6 +15,9 @@
 ### italic+bold
 ***computer science student***
 
-#link readme files
-[click me] (www.google.com0)
+# link readme files
+[click me]("www.google.com")
+
+# img in readme file
+![kohli](virat.jpg)
 
