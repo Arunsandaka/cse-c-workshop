@@ -20,7 +20,7 @@
 
 # img in readme file
 ![kohli](virat.jpg)
-
+## table
 | s.no|name|branch|roll-number|
 |-------|--------|--------|---------------|
 |1|surya|cse|60|
